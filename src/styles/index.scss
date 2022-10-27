@@ -1,0 +1,12 @@
+//main font
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&family=Poppins:wght@100;300;500;800;900&display=swap');
+
+
+// components
+@import 'components/loader';
+@import 'components/navbar';
+
+//pages aand routes
+@import 'login/login';
+@import 'signup/signup';
+@import 'home/home'
